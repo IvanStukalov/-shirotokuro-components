@@ -1,1 +1,1 @@
-# -shirotokuro-components
+# Components for my own projects
