@@ -1,3 +1,3 @@
-export * from "components";
+export * from "./components";
 
-export * from "colors/colors.js";
+export * from "./colors/colors.js";
