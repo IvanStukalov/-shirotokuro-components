@@ -1,5 +1,6 @@
 import {pkg} from "../../consts/pkg.js";
 import {colors} from "../../colors/colors.js";
+import "./Slider.css";
 
 const style = {
   background: colors.backgroundSecondary,

@@ -1,4 +1,5 @@
 import {pkg} from "../../consts/pkg.js";
+import "./Button.css";
 
 const style = (color) => {
   return {
