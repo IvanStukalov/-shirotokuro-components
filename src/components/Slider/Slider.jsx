@@ -4,12 +4,6 @@ import "./Slider.css";
 
 const style = {
   background: colors.backgroundSecondary,
-  '&::WebkitSliderThumb': {
-    background: colors.primary,
-  },
-  '&::MozRangeThumb': {
-    background: colors.primary,
-  }
 }
 
 export const Slider = ({className, id}) => {

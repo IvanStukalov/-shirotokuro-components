@@ -22,6 +22,7 @@
   appearance: none;
   width: 15px; /* Set a specific slider handle width */
   height: 15px; /* Slider handle height */
+  background: #29CC91; /* Green background */
   border-radius: 100%;
   cursor: pointer; /* Cursor on hover */
 }
@@ -29,6 +30,7 @@
 .shirotokuro--slider::-moz-range-thumb {
   width: 15px; /* Set a specific slider handle width */
   height: 15px; /* Slider handle height */
+  background: #29CC91; /* Green background */
   border-radius: 100%;
   cursor: pointer; /* Cursor on hover */
 }
