@@ -12,7 +12,7 @@ const style = (color) => {
 
 export const Button = ({label, color, onClick, className, id}) => {
   return (
-    <button className={`${pkg}--button ${className}`}
+    <button className={`${pkg}--button ${className ?? ""}`}
             style={style(color)}
             onClick={onClick}
             id={id}
