@@ -4,10 +4,10 @@ import "./Slider.css";
 
 const style = {
   background: colors.backgroundSecondary,
-  '&::-webkit-slider-thumb': {
+  '&::WebkitSliderThumb': {
     background: colors.primary,
   },
-  '&::-moz-range-thumb': {
+  '&::MozRangeThumb': {
     background: colors.primary,
   }
 }
