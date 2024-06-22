@@ -1,7 +1,7 @@
 {
   "name": "@shirotokuro/components",
   "author": "shirotokuro",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "components for own projects",
   "main": "src/index.js",
   "type": "module",
