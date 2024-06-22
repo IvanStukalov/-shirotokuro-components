@@ -1,1 +1,1 @@
-export const pkgName = "shirotokuro";
+export const pkg = "shirotokuro";
