@@ -10,11 +10,12 @@ const style = (color) => {
   }
 }
 
-export const Button = ({label, color, onClick}) => {
+export const Button = ({label, color, onClick, className, id}) => {
   return (
-    <button className={`${pkg}--button`}
+    <button className={`${pkg}--button ${className}`}
             style={style(color)}
             onClick={onClick}
+            id={id}
     >
       {label}
     </button>
