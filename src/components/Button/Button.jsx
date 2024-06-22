@@ -7,6 +7,7 @@ const style = (color) => {
     border: "none",
     borderRadius: "5px",
     fontSize: "medium",
+    cursor: "pointer",
   }
 }
 
